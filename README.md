@@ -13,5 +13,5 @@
 ### Task-2:
 > Create a csv file, which contains columns for the Number of Retweets, Number of Replies, Positive Score (which is how many happy words are in the tweet), Negative Score (which is how many angry words are in the tweet), and the Net Score for each tweet.
 ### Task-2:
->Produce a graph(scatter plot) of the Net Score vs Number of Retweets with Excel or Google sheets, using created csv file.
+> Produce a graph(scatter plot) of the Net Score vs Number of Retweets with Excel or Google sheets, using created csv file.
 
