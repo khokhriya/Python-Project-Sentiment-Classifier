@@ -86,5 +86,5 @@ resultingDataFile.close()
 > - [x] By completing all three above task we got the scatter plot between Net Score vs Number of Retweets with Google sheets which can be check out as below-
 >  ![Sentiment Classifier result](/result.png)
 
-## Project conclusion:
+## Project conclusion :tada::
 > - [x] By Completing this project Build a sentiment classifier, which will detect how positive or negative a tweet is. By using this sentiment classifier we produce a csv file containging columns for the Number of Retweets, Number of Replies, Positive Score , Negative Score, and the Net Score for each tweet. By using this csv file we generated a scatter Plot of the Net Score vs Number of Retweets, so we can understand that how a tweet is Positive or Negative.
