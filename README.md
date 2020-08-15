@@ -13,6 +13,7 @@
 ### Task-2:
 > Create a csv file, which contains columns for the Number of Retweets, Number of Replies, Positive Score (which is how many happy words are in the tweet), Negative Score (which is how many angry words are in the tweet), and the Net Score for each tweet.
 ### Task-3:
-> Produce a graph(scatter plot) of the Net Score vs Number of Retweets with Excel or Google sheets, using created csv file.
-
-![Sentiment Classifier result](/images/logo.png)
+> Produce a graph(scatter plot) of the Net Score vs Number of Retweets with Google sheets, using created csv file.
+## Project Result:
+By completing all three above task we got the scatter plot between Net Score vs Number of Retweets with Google sheets which can be check out as below-
+![Sentiment Classifier result](/result.png)
